@@ -14,7 +14,7 @@ With a knack for both backend architecture and frontend finesse, I love crafting
 
 ---
 
-- 🔭 I’m currently working on **AI integration into existing systems.**
+- 🔭 I’m currently working on **a secure API gateway with rate limiting, encryption, and token validation.**
 - 🌱 I’m currently learning **Advanced Security Practices, Web3 & Blockchain Development.**
 - 📫 Reach out at **millionmesfind@gmail.com**
 
