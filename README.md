@@ -2,7 +2,10 @@
   <img height="300" src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif" />
 </div>
 
-  <p><img src="https://komarev.com/ghpvc/?username=million-mesfin&label=Profile%20views&color=0e75b6&style=flat" alt="million-mesfin" /></p>
+<div>
+    <p><img src="https://komarev.com/ghpvc/?username=million-mesfin&label=Profile%20views&color=0e75b6&style=flat" alt="million-mesfin" /></p>
+</div>
+
 # 👋 Hi there! Welcome to my corner of the tech universe!
 
 I'm **Million**, a passionate **Full-Stack Developer** and **Security Enthusiast** dedicated to building innovative applications and ensuring they’re as secure as they are functional.
