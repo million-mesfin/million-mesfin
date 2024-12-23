@@ -26,7 +26,7 @@ With a knack for both backend architecture and frontend finesse, I love crafting
 </div>
 
 ---
-### 🤝 Connect with me:
+### 🤝 Let's connect:
 - **Email**: millionmesfind@gmail.com  
 - **Telegram**: [@million_mesfin](https://t.me/million_mesfin)
 
