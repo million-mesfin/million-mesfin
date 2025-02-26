@@ -24,6 +24,7 @@ With a knack for both backend architecture and frontend finesse, I love crafting
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,ts,cs,cpp,dotnet,java,py,express,mongodb,jest,cypress,dart,flutter,php,bootstrap,css,sass,redux,html,tailwind,tensorflow,pytorch,mysql,sqlite,aws,docker,azure,bash,firebase,postman,jquery,wordpress,linux,kotlin,materialui,figma,vscode&perline=8" alt="languages and tools" />
 </div>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=million-mesfin&" alt="Million Mesfin Streak Stats" /></p> -->
 
 ---
 ### 🤝 Let's connect:
